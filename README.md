@@ -1,6 +1,18 @@
-# Distance-measures-and-Encodings-Tester
-A string metric provides a number indicating an algorithm-specific indication of distance.
-There are several ways to measure the distance between two strings. 
-Similarly there are various ways to encode strings into encodngs,based on various algorithms.This helps to find distance between strings, 
-which might be different due to some typing errors,phonetic errors or having different spellings used in different geographic locations.
-This file contains a List of available distance metrices and string encoding functions.You can use a combination of these to test various encodings and the distance between them.
+# Distance Measures and Encodings Tester
+
+- A string metric provides a number indicating an algorithm-specific indication of distance.
+- There are several ways to measure the distance between two strings.
+- Various ways exist to encode strings into encodings based on various algorithms.
+- This facilitates finding the distance between strings, considering typing errors, phonetic errors, or different spellings used in various geographic locations.
+
+## Contents
+This repository contains a list of:
+
+- Available distance metrics
+- String encoding functions
+
+You can use a combination of these to test various encodings and the distance between them.
+
+## References and Links
+- [String Metrics on Wikipedia](https://en.wikipedia.org/wiki/String_metric)
+- [String Encoding Algorithms](https://en.wikipedia.org/wiki/String_(computer_science)#String_encoding)
